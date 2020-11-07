@@ -4,3 +4,4 @@ title: Homepage
 permalink: /
 ---
 [Me contacter](/contact)
+[Le blog](/blog)
